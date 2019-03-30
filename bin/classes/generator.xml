@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>
+		代码生成器配置文件: 
+		1.会为所有的property生成property_dir属性,如pkg=com.company => pkg_dir=com/company
+		2.可以引用环境变量: ${env.JAVA_HOME} or System.properties: ${user.home},property之间也可以相互引用
+	</comment>
+	
+	<!-- 需要根据实际情况改动的部分  开始-->
+	
+	<entry key="commonspackage">com.cyyz.enterprise.call.commons</entry>
+	
+	<entry key="basepackage">com.cyyz.enterprise.call</entry> 
+	    
+	<entry key="outRoot">E:\autoCode\output</entry>
+	<!-- 需要根据实际情况改动的部分  结束-->
+	
+	<!-- 数据库配置部分  开始-->
+	
+	<!-- 需要移除的表名前缀,使用逗号进行分隔多个前缀,示例值: t_,v_ -->
+	<entry key="tableRemovePrefixes">t_</entry>
+	
+	<entry key="jdbc.username">root</entry>
+	<entry key="jdbc.password">root</entry>
+	<entry key="jdbc.schema">PUBLIC</entry> 
+	<entry key="jdbc.schema"></entry> 
+	<entry key="jdbc.url">jdbc:mysql://localhost:3306/enterprise_call</entry>
+	<entry key="jdbc.driver">com.mysql.jdbc.Driver</entry>
+	
+	<!-- 数据库配置部分  结束-->
+	
+	
+	<!-- 数据库类型至java类型映射  -->
+	<entry key="java_typemapping.java.sql.Timestamp">java.util.Date</entry>
+	<entry key="java_typemapping.java.sql.Date">java.util.Date</entry>
+	<entry key="java_typemapping.java.sql.Time">java.util.Date</entry>	
+	<entry key="java_typemapping.java.lang.Byte">Integer</entry>
+	<entry key="java_typemapping.java.lang.Short">Integer</entry>
+	<entry key="java_typemapping.java.math.BigDecimal">BigDecimal</entry>
+	<entry key="java_typemapping.java.sql.Clob">String</entry>	
+
+</properties>

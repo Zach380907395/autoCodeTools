@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/sqlparse
+END
+BasicSqlFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/sqlparse/BasicSqlFormatter.java
+END
+NamedParameterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/sqlparse/NamedParameterUtils.java
+END
+SqlTypeChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/sqlparse/SqlTypeChecker.java
+END
+ResultSetMetaDataHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/sqlparse/ResultSetMetaDataHolder.java
+END
+SqlParseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/sqlparse/SqlParseHelper.java
+END
+ParsedSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/sqlparse/ParsedSql.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/procedure/model
+END
+CustomObjectParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/procedure/model/CustomObjectParameter.java
+END
+ResultProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/procedure/model/ResultProperty.java
+END
+Procedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/procedure/model/Procedure.java
+END
+ProcedureParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/procedure/model/ProcedureParameter.java
+END

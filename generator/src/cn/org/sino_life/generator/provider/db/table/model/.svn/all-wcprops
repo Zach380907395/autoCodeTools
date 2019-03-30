@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/table/model
+END
+ForeignKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/table/model/ForeignKey.java
+END
+ForeignKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/table/model/ForeignKeys.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/table/model/Table.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/provider/db/table/model/Column.java
+END

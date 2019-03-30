@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer
+END
+BytecodeReadingParanamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/BytecodeReadingParanamer.java
+END
+ParameterNamesNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/ParameterNamesNotFoundException.java
+END
+NullParanamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/NullParanamer.java
+END
+CachingParanamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/CachingParanamer.java
+END
+AdaptiveParanamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/AdaptiveParanamer.java
+END
+Paranamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/Paranamer.java
+END
+JavaSourceParanamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/JavaSourceParanamer.java
+END
+DefaultParanamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/DefaultParanamer.java
+END
+JavadocParanamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/paranamer/JavadocParanamer.java
+END

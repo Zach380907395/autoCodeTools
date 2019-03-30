@@ -1,0 +1,10 @@
+import java.util.*;
+
+import ${basepackage}.vo.*;
+import ${basepackage}.service.*;
+
+/**
+ * @author chengcheng
+ * @version 1.0
+ */
+

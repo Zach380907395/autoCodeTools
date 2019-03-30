@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/iss/!svn/ver/124/tools/autoCode/generator/lib
+END
+mysql-connector-java-5.0.4-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iss/!svn/ver/124/tools/autoCode/generator/lib/mysql-connector-java-5.0.4-bin.jar
+END
+sqljdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iss/!svn/ver/124/tools/autoCode/generator/lib/sqljdbc4.jar
+END
+ojdbc6_g.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iss/!svn/ver/124/tools/autoCode/generator/lib/ojdbc6_g.jar
+END
+antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iss/!svn/ver/124/tools/autoCode/generator/lib/antlr.jar
+END
+ojdbc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iss/!svn/ver/124/tools/autoCode/generator/lib/ojdbc.jar
+END
+freemarker.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iss/!svn/ver/124/tools/autoCode/generator/lib/freemarker.jar
+END

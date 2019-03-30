@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util
+END
+XMLHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/XMLHelper.java
+END
+AntPathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/AntPathMatcher.java
+END
+BeanHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/BeanHelper.java
+END
+GeneratorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/GeneratorException.java
+END
+StringHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/StringHelper.java
+END
+IOHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/IOHelper.java
+END
+binary_filelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/binary_filelist.txt
+END
+DateHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/DateHelper.java
+END
+ArrayHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/ArrayHelper.java
+END
+SqlExecutorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/SqlExecutorHelper.java
+END
+FileHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/FileHelper.java
+END
+TestDataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/TestDataGenerator.java
+END
+FreemarkerHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/FreemarkerHelper.java
+END
+SystemHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/SystemHelper.java
+END
+GLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/GLogger.java
+END
+PropertyPlaceholderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/PropertyPlaceholderHelper.java
+END
+ListHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/ListHashtable.java
+END
+AntPathStringMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/AntPathStringMatcher.java
+END
+PropertiesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/PropertiesHelper.java
+END

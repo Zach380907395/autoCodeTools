@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iss/!svn/ver/152/tools/autoCode/mybatis_20170214
+END
+java_imports.include
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iss/!svn/ver/124/tools/autoCode/mybatis_20170214/java_imports.include
+END
+mysql-connector-java-5.1.38.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iss/!svn/ver/129/tools/autoCode/mybatis_20170214/mysql-connector-java-5.1.38.jar
+END
+macro.include
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iss/!svn/ver/124/tools/autoCode/mybatis_20170214/macro.include
+END
+java_copyright.include
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iss/!svn/ver/124/tools/autoCode/mybatis_20170214/java_copyright.include
+END
+custom.include
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iss/!svn/ver/124/tools/autoCode/mybatis_20170214/custom.include
+END

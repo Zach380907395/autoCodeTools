@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/typemapping
+END
+OracleDataTypeForJdbcAndJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/typemapping/OracleDataTypeForJdbcAndJava.java
+END
+ActionScriptDataTypesUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/typemapping/ActionScriptDataTypesUtils.java
+END
+DatabaseDataTypesUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/typemapping/DatabaseDataTypesUtils.java
+END
+JdbcType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/typemapping/JdbcType.java
+END
+DatabaseTypeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/typemapping/DatabaseTypeUtils.java
+END
+JavaPrimitiveTypeMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/typemapping/JavaPrimitiveTypeMapping.java
+END
+JavaImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/iss/!svn/ver/124/tools/autoCode/generator/src/cn/org/sino_life/generator/util/typemapping/JavaImport.java
+END
