@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="generator/src"/>
-	<classpathentry kind="lib" path="generator/lib/antlr.jar"/>
-	<classpathentry kind="lib" path="generator/lib/freemarker.jar"/>
-	<classpathentry kind="lib" path="generator/lib/ojdbc.jar"/>
-	<classpathentry kind="lib" path="generator/lib/ojdbc6_g.jar"/>
-	<classpathentry kind="lib" path="generator/lib/sqljdbc4.jar"/>
-	<classpathentry kind="lib" path="generator/lib/mysql-connector-java-5.0.4-bin.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="antlr.jar"/>
+	<classpathentry kind="lib" path="freemarker.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="ojdbc.jar"/>
+	<classpathentry kind="lib" path="ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="README.md"/>
+	<classpathentry kind="lib" path="sqljdbc4.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
